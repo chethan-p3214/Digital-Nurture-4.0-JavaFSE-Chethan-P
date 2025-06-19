@@ -18,21 +18,21 @@ The primary goals of this repository are to:
 
 ```
 / Digital-Nurture-4.0-JavaFSE-Chethan-P
-├── Week-01/
+├── Week 01/
 │   └── [exercise folders and files]
-├── Week-02/
+├── Week 02/
 │   └── [exercise folders and files]
-├── Week-03/
+├── Week 03/
 │   └── [exercise folders and files]
-├── Week-04/
+├── Week 04/
 │   └── [exercise folders and files]
-├── Week-05/
+├── Week 05/
 │   └── [exercise folders and files]
-├── Week-06/
+├── Week 06/
 │   └── [exercise folders and files]
-├── Week-07/
+├── Week 07/
 │   └── [exercise folders and files]
-├── Week-08/
+├── Week 08/
 │   └── [exercise folders and files]
 └── README.md
 ```
