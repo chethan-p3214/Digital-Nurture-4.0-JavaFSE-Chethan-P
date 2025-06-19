@@ -1,0 +1,2 @@
+[main] ERROR com.example.LoggingExample - This is an error message
+[main] WARN  com.example.LoggingExample - This is a warning message
