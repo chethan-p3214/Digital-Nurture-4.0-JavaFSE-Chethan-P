@@ -1,0 +1,4 @@
+Linear Search: O(n) time complexity.
+Binary Search: O(log n) time complexity (requires sorted array).
+
+Binary search is more efficient for large datasets, assuming products are sorted.

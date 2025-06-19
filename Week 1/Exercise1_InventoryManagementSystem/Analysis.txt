@@ -1,0 +1,6 @@
+Data Structure: HashMap
+Add: O(1) average case
+Update: O(1) average case
+Delete: O(1) average case
+
+HashMap allows quick lookup by productId, making it optimal for inventory operations.

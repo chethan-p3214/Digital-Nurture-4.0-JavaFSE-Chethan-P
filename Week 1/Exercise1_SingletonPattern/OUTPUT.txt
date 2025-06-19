@@ -1,0 +1,4 @@
+Logger Initialized
+LOG: First log message
+LOG: Second log message
+Are both instances same? true
