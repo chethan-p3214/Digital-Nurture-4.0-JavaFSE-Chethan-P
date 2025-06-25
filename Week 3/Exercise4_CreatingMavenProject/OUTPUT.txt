@@ -1,0 +1,2 @@
+Maven project created successfully with Spring Context, AOP, and WebMVC dependencies.
+Compiler plugin set for Java 1.8.
