@@ -1,0 +1,26 @@
+===== Spring Boot Project Creation Log =====
+Group: com.cognizant
+Artifact: spring-learn
+
+Generated project at https://start.spring.io
+Downloaded ZIP extracted to Eclipse Workspace.
+
+===== Maven Build =====
+Command:
+mvn clean package -Dhttp.proxyHost=proxy.cognizant.com -Dhttp.proxyPort=6050 -Dhttps.proxyHost=proxy.cognizant.com -Dhttps.proxyPort=6050 -Dhttp.proxyUser=123456
+
+Result:
+[INFO] BUILD SUCCESS
+[INFO] Total time: 5.123 s
+
+===== Main Method Verification =====
+2025-07-01 10:00:00 INFO  com.cognizant.springlearn.SpringLearnApplication - START
+2025-07-01 10:00:00 INFO  com.cognizant.springlearn.SpringLearnApplication - END
+
+===== Project Walkthrough =====
+- src/main/java: Application code
+- src/main/resources: Application config
+- src/test/java: Unit tests
+- SpringLearnApplication.java: Entry point of Spring Boot app
+- @SpringBootApplication: Enables component scan, auto-configuration, Spring Boot setup
+- pom.xml: Maven dependencies and plugins

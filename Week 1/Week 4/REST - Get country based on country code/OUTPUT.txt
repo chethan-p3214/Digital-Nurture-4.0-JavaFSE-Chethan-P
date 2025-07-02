@@ -1,0 +1,16 @@
+===== CountryController - getCountry(String code) =====
+URL: http://localhost:8083/country/in
+Method: GET
+
+Input Code: "in" (case-insensitive)
+Match Found: India
+
+Response:
+{
+  "code": "IN",
+  "name": "India"
+}
+
+✓ Used @PathVariable
+✓ Used lambda expression to search list from country.xml
+✓ Works case-insensitively

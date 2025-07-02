@@ -1,0 +1,17 @@
+===== JWT Auth Controller =====
+Endpoint: /authenticate
+Method: GET with Basic Auth
+
+Curl Command:
+curl -s -u user:pwd http://localhost:8090/authenticate
+
+Response:
+{
+  "token": "eyJhbGciOiJIUzI1NiJ9..."
+}
+
+Implementation Steps:
+✓ Read Authorization header
+✓ Decode credentials
+✓ Generate JWT
+✓ Return token as JSON
