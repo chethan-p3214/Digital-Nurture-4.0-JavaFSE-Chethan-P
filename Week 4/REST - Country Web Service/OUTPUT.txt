@@ -1,0 +1,13 @@
+===== CountryController - getCountryIndia() =====
+URL: http://localhost:8083/country
+Method: GET
+
+Spring Bean Loaded: India
+Response:
+{
+  "code": "IN",
+  "name": "India"
+}
+
+✓ Controller returns Java object → Spring auto-converts to JSON
+✓ Checked headers in Chrome network tab & Postman

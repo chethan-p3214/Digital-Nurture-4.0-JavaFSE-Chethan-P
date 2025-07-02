@@ -1,0 +1,16 @@
+===== HelloController =====
+URL: http://localhost:8083/hello
+Method: GET
+Response: Hello World!!
+
+Controller Logs:
+INFO: Start - sayHello()
+INFO: End - sayHello()
+
+Browser Output:
+Hello World!!
+
+Postman Output:
+Hello World!!
+
+✓ HTTP Headers inspected in browser dev tools and Postman headers tab.

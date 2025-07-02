@@ -1,0 +1,14 @@
+===== SimpleDateFormat Bean Test =====
+
+Spring Configuration: date-format.xml
+Bean ID: dateFormat
+Class: java.text.SimpleDateFormat
+Pattern: dd/MM/yyyy
+
+===== Console Output =====
+ApplicationContext loaded successfully
+Parsed Date: Mon Dec 31 00:00:00 IST 2018
+
+Benefits:
+✓ Centralized SimpleDateFormat config
+✓ Reusable date parser via Spring context
